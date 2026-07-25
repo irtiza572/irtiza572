@@ -12,7 +12,11 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irtiza-haider-0123042a4/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/irtiza-haider-0123042a4/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
